@@ -18,7 +18,7 @@ This repository contains TypeScript script `uniswapV2MulticallUtils.ts` that pro
 1. Install dependencies:
 
    ```bash
-   npm install ethers fs
+   npm install ethers@^5 fs
    ```
 
 2. Import concurrentMulticall and utility functions from uniswapV2MulticallUtils.ts in your TypeScript project.
