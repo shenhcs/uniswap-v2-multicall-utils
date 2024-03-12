@@ -1,0 +1,34 @@
+uniswap v2 address
+0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6
+
+uniswap v3
+factory
+0xdB1d10011AD0Ff90774D0C6Bb92e5C5c8b4461F7
+quoter 
+0x82825d0554fA07f7FC52Ab63c961F330fdEFa8E8
+
+pv1
+factory
+0xBCfCcbde45cE874adCB698cC183deBcF17952812
+allPairs
+getPair
+
+pv2
+0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73
+allPairs
+getPairs
+
+pv3
+factory
+0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865
+quoter 	
+0xB048Bbc1Ee6b733FFfCFb9e9CeF7375518e25997
+
+
+
+New BSC Account Address: 0x1e27A516b099E4902b697d609574154eeDd9C41E
+New BSC Account Private Key: 0x76f900ef67e5466d172d3a460b4778231074afef9cd65b4bc48c40c4dadc1e95
+
+
+https://github.com/mds1/multicall
+

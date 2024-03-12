@@ -1,0 +1,27 @@
+{
+  "name": "uniswap-v2-multicall-utils",
+  "version": "1.0.0",
+  "description": "This repository contains TypeScript script `uniswapV2MulticallUtils.ts` that provides utility functions to interact with Uniswap V2 contracts efficiently using concurrent multicalls. These functions are designed to fetch pair addresses, token pairs, reserves, and to write/read V2 pool data to/from JSON files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenhcs/uniswap-v2-multicall-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenhcs/uniswap-v2-multicall-utils/issues"
+  },
+  "homepage": "https://github.com/shenhcs/uniswap-v2-multicall-utils#readme",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.26"
+  }
+}
